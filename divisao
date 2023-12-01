@@ -1,0 +1,6 @@
+void main() {
+  var num1 = 10;
+  var num2 = 8;
+  var divisao = num1 / num2;
+  print('O resultado de divisão entre ${num1} e ${num2} é: ${divisao}');
+}
