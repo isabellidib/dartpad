@@ -1,0 +1,6 @@
+void main() {
+  var num1 = 10;
+  var num2 = 8;
+  var subtracao = num1 - num2;
+  print('O resultado de subtração entre ${num1} e ${num2} é: ${subtracao}');
+}
