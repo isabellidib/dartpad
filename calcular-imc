@@ -1,0 +1,8 @@
+void main() { //entrada de toda lógica
+  //double-numero com casas decimais
+  double peso = 70.0;
+  double altura = 1.75;
+  double imc = peso/ (altura*altura);
+  
+  print("Seu IMC é: $imc"); //$ chama a variável
+}
