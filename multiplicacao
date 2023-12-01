@@ -1,0 +1,6 @@
+void main() {
+  var num1 = 10;
+  var num2 = 8;
+  var multiplicacao = num1 * num2;
+  print('O resultado de multiplicação entre ${num1} e ${num2} é: ${multiplicacao}');
+}
