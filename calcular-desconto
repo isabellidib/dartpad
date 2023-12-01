@@ -1,0 +1,9 @@
+void main() { //entrada de toda lógica
+  double valor_original = 100.0;
+  double desconto = 20.0;
+  
+  double vdesconto = valor_original * (desconto/100);
+  double valor_final = valor_original - desconto;
+  
+  print("O valor com desconto é: $valor_final");
+}
